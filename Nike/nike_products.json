@@ -1,0 +1,125 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Nike Everyday Plus Cushioned",
+            "description": "Crew Socks (6 Pairs)",
+            "detailDescription": "Extra cushioning under the heel and forefoot.",
+            "category": "Training & Library",
+            "colorNumber": 1,
+            "price": "US$22",
+            "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/sx6888-100/nike-everyday-plus-cushioned-crew-socks.jpg",
+            "isBestSeller": true
+        },
+        {
+            "id": 2,
+            "name": "Nike Air Max 270",
+            "description": "Men's Shoes",
+            "detailDescription": "The first lifestyle Air Max brings you style, comfort and big attitude.",
+            "category": "Lifestyle",
+            "colorNumber": 3,
+            "price": "US$160",
+            "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/w_1280/c_limit/01662ccb-9769-4551-8b30-5489b76a44bb/air-max-270-mens-shoes-KBPQ0DQ.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Nike Air Force 1 '07",
+            "description": "Men's Shoes",
+            "detailDescription": "The radiance lives on in the Nike Air Force 1 '07.",
+            "category": "Lifestyle",
+            "colorNumber": 2,
+            "price": "US$115",
+            "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1734637d-3547-4609-8ddf-e0cc5a7ca60c/air-force-1-07-mens-shoes-jBrhbr.png"
+        },
+        {
+            "id": 4,
+            "name": "Nike Dunk Low Retro",
+            "description": "Men's Shoes",
+            "detailDescription": "Created for the hardwood but taken to the streets.",
+            "category": "Lifestyle",
+            "colorNumber": 5,
+            "price": "US$115",
+            "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2b7bb787-f4a9-4fda-abda-c69ac7084eb8/NIKE+DUNK+LOW+RETRO.png"
+        },
+        {
+            "id": 5,
+            "name": "Nike Pegasus 40",
+            "description": "Men's Road Running Shoes",
+            "detailDescription": "A springy ride for every run.",
+            "category": "Running",
+            "colorNumber": 7,
+            "price": "US$130",
+            "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/992978d5-97d4-43c4-9472-8a4d55f985a4/nike-air-zoom-pegasus-40-road-running-shoes-7S2pP7.png"
+        },
+        {
+            "id": 6,
+            "name": "Nike Blazer Mid '77 Vintage",
+            "description": "Men's Shoes",
+            "detailDescription": "Vintage style, modern comfort.",
+            "category": "Lifestyle",
+            "colorNumber": 2,
+            "price": "US$105",
+            "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/889ef520-349a-49da-80d4-8d75f9651feb/blazer-mid-77-vintage-shoes-bsLFk1.png"
+        },
+        {
+            "id": 7,
+            "name": "Nike Metcon 9",
+            "description": "Men's Workout Shoes",
+            "detailDescription": "Stability for lifting and durability for high-intensity training.",
+            "category": "Training",
+            "colorNumber": 4,
+            "price": "US$150",
+            "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1e9389e8-466d-4952-a5e2-66804a180373/metcon-9-workout-shoes-H1mXf4.png"
+        },
+        {
+            "id": 8,
+            "name": "Nike Sportswear Club Fleece",
+            "description": "Men's Pullover Hoodie",
+            "detailDescription": "A closet staple, the Nike Sportswear Club Fleece Pullover Hoodie combines classic style with the soft comfort of fleece.",
+            "category": "Clothing",
+            "colorNumber": 1,
+            "price": "US$60",
+            "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/a1c1d8d5-1c32-4467-b50a-e5550a26d7f0/sportswear-club-fleece-pullover-hoodie-l8kXJ4.png"
+        },
+        {
+            "id": 9,
+            "name": "Nike Phantom GX 2 Elite",
+            "description": "Firm-Ground Low-Top Soccer Cleats",
+            "detailDescription": "For those who are obsessed with the game, the Elite version brings top-tier innovation to your feet.",
+            "category": "Soccer",
+            "colorNumber": 3,
+            "price": "US$260",
+            "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/8c56e297-c837-4f7f-8703-a187a552e694/phantom-gx-2-elite-low-firm-ground-soccer-cleats-8Pz0H1.png"
+        },
+        {
+            "id": 10,
+            "name": "Nike Pro Dri-FIT",
+            "description": "Men's Tight Fit Sleeveless Top",
+            "detailDescription": "Supportive comfort that moves with you.",
+            "category": "Training",
+            "colorNumber": 1,
+            "price": "US$45",
+            "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/28362629-94b2-4d56-a19e-e6ec928f6452/pro-dri-fit-tight-fit-sleeveless-top-4z6Jm0.png"
+        },
+        {
+            "id": 11,
+            "name": "Nike Giannis Immortality 3",
+            "description": "Basketball Shoes",
+            "detailDescription": "Designed for Giannis Antetokounmpo's high-speed game.",
+            "category": "Basketball",
+            "colorNumber": 6,
+            "price": "US$90",
+            "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/45367610-d027-4638-9276-880922c2225e/giannis-immortality-3-basketball-shoes-8xP1Z2.png"
+        },
+        {
+            "id": 12,
+            "name": "Nike Heritage",
+            "description": "Small Items Bag (3L)",
+            "detailDescription": "Keep your essentials close in this compact, durable bag.",
+            "category": "Accessories",
+            "colorNumber": 1,
+            "price": "US$30",
+            "img": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/e4e098ed-73c3-448c-9b6d-a719000a6e0d/heritage-small-items-bag-3l-p0V0x4.png"
+        }
+    ]
+}
